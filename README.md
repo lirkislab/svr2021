@@ -3,7 +3,9 @@
 
 
 =================
+
 LIRKIS G-CVE project
+
 =================
 
 The sample of Collaborative Virtual Environment for education purposes.
